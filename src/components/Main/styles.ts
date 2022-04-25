@@ -22,7 +22,7 @@ export const Title = styles.h1`
 `
 
 export const Description = styles.h2`
-  font-size: 2rre,;
+  font-size: 2rem;
   font-weight: 400;
 `
 
